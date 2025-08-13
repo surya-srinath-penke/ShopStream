@@ -1,1 +1,5 @@
 rootProject.name = 'ShopStream'
+include 'chat-service'
+include 'inventory-service'
+include 'order-service'
+include 'gateway'
